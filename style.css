@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+}
+h1{
+    border: darkgreen 2px;
+    color:red;
+}
+span{
+    color: green;
+}
+.red-word{
+    color: red;
+}
+img{
+    width:500px;
+    height:300px;
+}
+h4{
+    border: 2px blue;
+} 
